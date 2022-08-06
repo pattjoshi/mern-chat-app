@@ -36,6 +36,23 @@
 
 - **Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.**
 
+# [What are three dots (…) in Javascript](https://codeburst.io/what-are-three-dots-in-javascript-6f09476b03e1)
+
+- It takes in an iterable (e.g an array) and expands it into individual elements.
+- The spread syntax is commonly used to make shallow copies of JS objects. Using this operator makes the code concise and enhances its readability.
+
+---
+
+## toast use for alert
+
+`import {ToastContainer, toast} from 'react-toastify'`
+
+### written reqister code in userController.js
+
+### userModel.js :- defines the user Shema and Model
+
+- **brcypt is used to encryption of the password**
+
 # Connect to MongoDB
 
 ```
@@ -53,6 +70,12 @@ mongoose
   });
 
 ```
+
+---
+
+# COMMIT OF DAY :-
+
+## DAY-1
 
 ---
 
