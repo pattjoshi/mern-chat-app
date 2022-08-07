@@ -59,7 +59,7 @@ export default function Register() {
     }
 
     return true;
-};
+  };
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -149,6 +149,7 @@ const FormContainer = styled.div`
       text-transform: uppercase;
     }
   }
+
   form {
     display: flex;
     flex-direction: column;

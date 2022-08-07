@@ -21,8 +21,8 @@
 
 ### Our Projeco constst 2 main file
 
-- public (Front-end)
-- Server (Back-end)
+- public (Front-end) `yarn start`
+- Server (Back-end) `yarn start`
 
 # Install dependancy in Server
 
@@ -30,7 +30,7 @@
 
 # How to run server
 
-`npm start`
+`yarn start`
 
 ## What is CORS in simple terms?
 
@@ -75,7 +75,14 @@ mongoose
 
 # COMMIT OF DAY :-
 
-## DAY-1
+## DAY-1 :- Register Functionality is complit.
+
+        - Data store in mongodb data base .
+        - Anter register user move to chat page
+
+## in the process of somw errror realated login and register **chear catch memery**.
+
+## [multiavatar](https://api.multiavatar.com/4645646)
 
 ---
 

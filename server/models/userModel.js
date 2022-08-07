@@ -17,10 +17,9 @@ const userSchema = new mongoose.Schema({
   password: {
     type: String,
     required: true,
-    unique: true,
-    max: 50,
+    min: 8,
   },
-  isAvatarImage: {
+  isAvatarImageSet: {
     type: Boolean,
     default: false,
   },
@@ -30,6 +29,4 @@ const userSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model("User", userSchema);
-
-// userModel.js :- defines the user Shema and Model
+module.exports = mongoose.model("Users", userSchema);
