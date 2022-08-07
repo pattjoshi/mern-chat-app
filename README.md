@@ -1,5 +1,10 @@
 # mern-chat-app
 
+##  Realtime Chat App with React, Node.js, Socket.io and MongoDB
+### Adding the fracher like Register Functionality,Login Functionality,Set Avatar/Profile Picture,Chat Container Setup,All Contacts,Chat Header,Chat Input,Chat Messages 
+
+
+
 ## login Page
 <img width="942" alt="image" src="https://user-images.githubusercontent.com/78966839/183277314-49aa9c36-b93e-44a1-a1f5-d25fba2d9917.png">
 
